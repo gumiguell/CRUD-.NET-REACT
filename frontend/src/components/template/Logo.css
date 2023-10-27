@@ -1,0 +1,10 @@
+aside.logo {
+    padding: 5px;
+}
+
+aside.logo img {
+    width: 80%;
+    height: 100px;
+    margin-left: 50%;
+    margin-top: 10%;
+}

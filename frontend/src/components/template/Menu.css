@@ -1,0 +1,18 @@
+nav.menu {
+    text-align: center;
+    margin-top: 5ch;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.menu a{
+    text-decoration: none;
+    color: #525252;
+    padding: 15px;
+    font-size: 25px;
+    
+}
+
+.menu a:hover {
+    color: #538cc6
+}

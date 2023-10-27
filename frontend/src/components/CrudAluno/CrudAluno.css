@@ -1,0 +1,16 @@
+
+tbody{
+    padding: 10px;
+}
+
+thead {
+    color: white;
+    background-color: rgb(140, 140, 140);
+    font-size: 20px;
+    align-items: center;
+}
+
+
+th, td {
+    padding: 10px;
+}

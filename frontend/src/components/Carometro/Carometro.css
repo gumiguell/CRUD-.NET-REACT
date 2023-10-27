@@ -1,0 +1,13 @@
+.carometro-container {
+    margin-top: 70px;
+    margin-left: 70px;
+    display: flex;
+    flex-direction:row;
+}
+
+.carometro-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px; /* Espaçamento entre as imagens */
+}
+
